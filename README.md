@@ -17,7 +17,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Live link :star2:
 
-- https://goldipl.github.io/travel-website/
+- https://travel-newest-website.vercel.app/
 
 ## How to open project locally?
 
